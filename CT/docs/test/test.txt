@@ -1,0 +1,15 @@
+Testing
+
+Given the state of project implementation unit testing was the only possible testing I could
+complete.
+
+Unit Tests
+
+- Through project implementation all modules where tested as a new one was introduced 
+- Functionality was varied as new modules where introduced.
+- There where bugs when trying to close the socket and the IO operations, they where fixed.
+- Error checking accounts for most abnormal user input as all of the input is read
+    in via a String and checked if it needed to be use as an Integer.
+- Multiple clients chat rooms can be opened at the same time and they are all able 
+    to connect and chat if they are in the same chatroom, I had a total of 10 chats
+    open at a time and they all worked as expected.

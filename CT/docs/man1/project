@@ -1,0 +1,29 @@
+.\" Manpage for 331 project spring 2022.
+.\" Contact carsonwitts1@gmail.com to correct errors or typos.
+.TH man 1 "7 Apr 2022" "1.1" "Project Manual"
+.SH NAME
+.B project
+-- Chatroom Tool
+.SH SYNOPSIS
+.B exe/./server.sh
+.B exe/./client.sh
+.SH DESCRIPTION
+
+The general purpose of this program is to demonstrate topics learned in CSCI 331: Object Oriented design. Also, this
+program utilizes TCP sockets, for the server and client connections. 
+
+A client can connect to the server and chat with many other clients via the TCP socket connection 
+
+.SH INSTRUCTIONS
+
+enter exe/./server.sh first and what for the server to start running, 
+then enter exe/./client.sh and enter a username then press enter, the program will guide the process from there.
+
+.SH BUGS
+
+Extensive testing has yet to be completed, so for any bugs please email me at carsonwitts1@gmail.com
+
+.SH AUTHOR
+Carson Witts (
+.B carsonwitts1@gmail.com
+)
